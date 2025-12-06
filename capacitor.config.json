@@ -1,0 +1,5 @@
+{
+  "appId": "com.incometracker.app",
+  "appName": "Income Tracker",
+  "webDir": "dist"
+}
